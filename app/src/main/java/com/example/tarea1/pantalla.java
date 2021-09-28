@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
 
 public class pantalla extends AppCompatActivity {
 
